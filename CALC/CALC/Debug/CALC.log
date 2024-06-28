@@ -1,0 +1,3 @@
+﻿  CALC.cpp
+c:\fatemeh\list\calc\calc\calc.cpp(148): warning C4101: 'k': unreferenced local variable
+  CALC.vcxproj -> C:\FATEMEH\list\CALC\Debug\CALC.exe
