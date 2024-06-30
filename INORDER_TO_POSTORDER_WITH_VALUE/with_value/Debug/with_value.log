@@ -1,0 +1,7 @@
+﻿  with_value.cpp
+c:\fatemeh\list\with_value\with_value\with_value.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\fatemeh\list\with_value\with_value\with_value.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\fatemeh\list\with_value\with_value\with_value.cpp(169): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\fatemeh\list\with_value\with_value\with_value.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\fatemeh\list\with_value\with_value\with_value.cpp(188): warning C4101: 'x': unreferenced local variable
+  with_value.vcxproj -> C:\FATEMEH\list\with_value\Debug\with_value.exe
